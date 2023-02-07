@@ -164,10 +164,11 @@ section h2{
 
 footer{
     margin-top: 100px;
-    height: 400px;
+    height: 350px;
     background-image: linear-gradient(180deg,#180F4A, #090422,black);
     text-align: center;
     border-top: 5px solid #ff2978;
+    border-bottom: 5px solid #ff2978;
 }
 
 .logo-rodape{
